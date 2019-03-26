@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="scannerfinder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts</output-path>
+    <root id="archive" name="scannerfinder.jar">
+      <element id="module-output" name="scannerfinder" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/pkts/pkts-sdp/3.0.0/pkts-sdp-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/pkts/pkts-sip/3.0.0/pkts-sip-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/sip/jain-sip-ri/1.2.159/jain-sip-ri-1.2.159.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/pkts/pkts-buffers/3.0.0/pkts-buffers-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/pkts/pkts-streams/3.0.0/pkts-streams-3.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/pkts/pkts-core/3.0.0/pkts-core-3.0.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
